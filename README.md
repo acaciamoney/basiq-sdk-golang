@@ -14,6 +14,8 @@ You can grab your API key on the [dashboard](http://dashboard.basiq.io).
 
 ## Changelog
 
+1.0.3 - Added support for go modules
+
 1.0.2 - Documentation updated, added RefreshToken method on the Session object
 
 1.0.1 - Documentation updated

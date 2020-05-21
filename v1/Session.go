@@ -1,8 +1,8 @@
 package v1
 
 import (
-	"github.com/basiqio/basiq-sdk-golang/errors"
-	"github.com/basiqio/basiq-sdk-golang/utilities"
+	"github.com/acaciamoney/basiq-sdk-golang/errors"
+	"github.com/acaciamoney/basiq-sdk-golang/utilities"
 )
 
 type Session struct {
